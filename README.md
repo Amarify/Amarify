@@ -21,3 +21,13 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Amar Kumar Reddy | 💻 Full Stack Developer / Data Scientist | 🛸 India , USA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+
+
+---
+
+<details>
+  <summary>Amar's GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amarify&show_icons=true&hide_border=true" />
+
+</details>
