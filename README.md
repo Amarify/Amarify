@@ -24,10 +24,6 @@
 
 
 ---
+  
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amarify&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>My GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amarify&show_icons=true&hide_border=true" />
-
-</details>
