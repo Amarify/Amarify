@@ -13,7 +13,8 @@
    <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/devto.png"></a>&nbsp;&nbsp;
    <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/spotify.png"></a>&nbsp;&nbsp;
    <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/coffee.jpg"></a>&nbsp;&nbsp;
-   <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/hackerrank.jpg"></a>&nbsp;&nbsp;
+ <!--  <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/hackerrank.png"></a>&nbsp;&nbsp; -->
+   <a href="#"><img height="30" src="https://github.com/Amarify/Amarify/blob/main/images/instagram.svg"></a>&nbsp;&nbsp;
  </p>
 
 
