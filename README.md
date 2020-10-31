@@ -29,6 +29,22 @@
 
 ---
 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
+	    <br />
+	⚛️ Checkout My VSCode Configrations <a href="#">Here</a>.
+	</ul>	
+</details>
+
+---
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
