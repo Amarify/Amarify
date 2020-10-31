@@ -39,7 +39,7 @@
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="#">Here</a>.
+	⚛️ Checkout My VSCode Configuration's <a href="#">Here</a>.
 	</ul>	
 </details>
 
