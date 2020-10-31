@@ -27,3 +27,10 @@
   
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amarify&show_icons=true&hide_border=true" />
 
+---
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
