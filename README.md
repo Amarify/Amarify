@@ -31,7 +31,7 @@
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <b>⚙️ Things I use to get stuff done</b>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
